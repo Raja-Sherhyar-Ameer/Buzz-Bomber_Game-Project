@@ -10,7 +10,7 @@ For Linux OS system
 	b. Install SFML: <br>
 	sudo apt-get install libsfml-dev
 <br> <br>
-2. Compilation Commands (In Order):
+2. Compilation Commands (In Order):<br>
 	a. g++ -c buzz.cpp <br>
 	b. g++ buzz.o -o sfml-app -lsfml-graphics -lsfml-audio -lsfml-window -lsfml-system  <br>
 <br><br>
