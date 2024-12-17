@@ -6,15 +6,14 @@ For Linux OS system
 1. Requirements For Compiling (Only need to be run once):
    <br>
 	a. Install GNU G++ Compiler: <br>
-	sudo apt-get install g++
-<br>
-	b. Install SFML:
+	sudo apt-get install g++ <br>
+	b. Install SFML: <br>
 	sudo apt-get install libsfml-dev
-<br>
+<br> <br>
 3. Compilation Commands (In Order):	<br>
-	a. g++ -c buzz.cpp
-	b. g++ buzz.o -o sfml-app -lsfml-graphics -lsfml-audio -lsfml-window -lsfml-system
-<br>
+	a. g++ -c buzz.cpp <br>
+	b. g++ buzz.o -o sfml-app -lsfml-graphics -lsfml-audio -lsfml-window -lsfml-system  <br>
+<br><br>
 4. Running The Game:<br>
  a. ./sfml-app
 
