@@ -5,10 +5,8 @@
 ### For Linux OS System
 
 #### 1. Requirements For Compiling (Only need to be run once):
-   <br>
    a. **Install GNU G++ Compiler:**  
    ```bash
    sudo apt-get install g++
-
 
 
