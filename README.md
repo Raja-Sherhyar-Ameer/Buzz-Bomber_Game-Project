@@ -4,8 +4,11 @@
 ## Steps to run the Game
 ### For Linux OS System
 
-#### 1. Requirements For Compiling (Only need to be run once):
+#### 1. Requirements For Compiling (Only need to be run once):  
    a. **Install GNU G++ Compiler:**  
+   ```bash
+   sudo apt-get install g++
+ **b. Install GNU G++ Compiler:**  
    ```bash
    sudo apt-get install g++
 
