@@ -8,6 +8,7 @@
    a. **Install GNU G++ Compiler:**  
    ```bash
    sudo apt-get install g++
+exit
  **b. Install GNU G++ Compiler:**  
    ```bash
    sudo apt-get install g++
