@@ -15,7 +15,9 @@ For Linux OS system
 	b. g++ buzz.o -o sfml-app -lsfml-graphics -lsfml-audio -lsfml-window -lsfml-system  <br>
 <br>
 4. Running The Game:<br>
- a. ./sfml-app
+````bash
+ ./sfml-app
+````
 
 
 
