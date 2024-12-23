@@ -14,10 +14,12 @@ For Linux OS system
 	a. g++ -c buzz.cpp <br>
 	b. g++ buzz.o -o sfml-app -lsfml-graphics -lsfml-audio -lsfml-window -lsfml-system  <br>
 <br>
-4. Running The Game:<br>
-```bash
+4. Running The Game:
+   ```bash
    ./sfml-app
 ```
+   
+
 
 
 
